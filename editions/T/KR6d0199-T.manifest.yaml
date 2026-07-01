@@ -1,0 +1,170 @@
+canonical_identifier: bkk:krp/KR6d0199/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0199/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 請觀世音菩薩消伏毒害陀羅尼三昧儀
+  identifiers:
+    krp: KR6d0199
+    cbeta: T46n1949
+    cbeta_old_id: T46n1949
+    authorityid: CA0002601
+    json_key: T1949
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1949.xml
+    old_id: T46n1949
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0199_000-T.yaml, hash: 'sha256:88456fc7c3849ab4f5b9d13144bf83bb5d69054f1107f34f39c63cccf5e83219'}
+  - {seq: 1, filename: KR6d0199_001-T.yaml, hash: 'sha256:5d001b06966401eb49075166d22703ba9bb843ab9fedb492c4bcd6bf50c7d7ae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0199_000-T.markers.yaml, hash: 'sha256:24318d045ba8322deb0bb3a4ff7969e1cf9666c2a7234aebb5fef8b0fb641257'}
+  - {seq: 1, role: markers, filename: assets/KR6d0199_001-T.markers.yaml, hash: 'sha256:99b982e16f5eb909e642051013b4a9fefd3fd1e3430797b1e8c611114c44e852'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7693
+  label: '請觀世音菩薩消伏毒害陀羅尼
+
+    三昧儀金光明最勝懺儀同'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 敘緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-2
+    span:
+    - body
+    - 438
+    - 438
+  label: 2 明正意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-3
+    span:
+    - body
+    - 1083
+    - 1083
+  label: 1 莊嚴道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-4
+    span:
+    - body
+    - 1744
+    - 1744
+  label: 2 作禮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-5
+    span:
+    - body
+    - 2361
+    - 2361
+  label: 3 燒香散華
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-6
+    span:
+    - body
+    - 2808
+    - 2808
+  label: 4 繫念數息
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-7
+    span:
+    - body
+    - 3519
+    - 3519
+  label: 5 召請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-8
+    span:
+    - body
+    - 4070
+    - 4070
+  label: 6 具楊枝淨水
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-9
+    span:
+    - body
+    - 4323
+    - 4323
+  label: 7 誦三呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-10
+    span:
+    - body
+    - 5747
+    - 5747
+  label: 8 披陳懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-11
+    span:
+    - body
+    - 6651
+    - 6651
+  label: 9 禮拜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-12
+    span:
+    - body
+    - 6897
+    - 6897
+  label: 10 第十誦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0199_T_001-mulu-13
+    span:
+    - body
+    - 7088
+    - 7088
+  label: 3 勸修
+  type: mulu
+  level: 1
+hash: sha256:f231b6db5d48522df98a9932f87e58565cf40221c6d4f3a71660b98240960cc9

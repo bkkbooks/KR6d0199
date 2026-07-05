@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0199_000.yaml, hash: 'sha256:88456fc7c3849ab4f5b9d13144bf83bb5d69054f1107f34f39c63cccf5e83219'}
-  - {seq: 1, filename: KR6d0199_001.yaml, hash: 'sha256:979e8ae22250d80d55e06eb493af176c38820a67c6195d5d08920478580ada18'}
+  - {seq: 1, filename: KR6d0199_001.yaml, hash: 'sha256:5d001b06966401eb49075166d22703ba9bb843ab9fedb492c4bcd6bf50c7d7ae'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0199_001.markers.yaml, hash: 'sha256:1d16f366ff36dca4c376a5c89490dacfb7198a74f493181941d430667c0aba52'}
+  - {seq: 0, role: markers, filename: assets/KR6d0199_000.markers.yaml, hash: 'sha256:73bea58987fa3eb8632bb6270c58b99a9de95afc8fefad60ea8c641694d0c716'}
+  - {seq: 1, role: markers, filename: assets/KR6d0199_001.markers.yaml, hash: 'sha256:e9198d221a233dc5cde57db85f3c70a11e4256975557e4404b16ac21c85e8476'}
 table_of_contents:
 - ref:
     seq: 1
@@ -163,9 +164,6 @@ table_of_contents:
   label: 3 勸修
   type: mulu
   level: 1
-hash: sha256:d94bb9a1e8aa65b813f0c6cf2bf3a4fce1fb7f885025688b2f8f00b029924b1b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bf0b3063da8aad249b8a94bbad56bbf18cbbe150dcd3b23e2a46d2f0693cb5b2
 editions:
 - short: T

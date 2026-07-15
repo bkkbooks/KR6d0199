@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0199/v1
 canonical_location: https://kanripo.org/bkk/KR6d0199/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 請觀世音菩薩消伏毒害陀羅尼三昧儀
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0199_000.yaml, hash: 'sha256:88456fc7c3849ab4f5b9d13144bf83bb5d69054f1107f34f39c63cccf5e83219'}
-  - {seq: 1, filename: KR6d0199_001.yaml, hash: 'sha256:5d001b06966401eb49075166d22703ba9bb843ab9fedb492c4bcd6bf50c7d7ae'}
+  - {seq: 1, filename: KR6d0199_001.yaml, hash: 'sha256:48f1c1c5bc73236ee7a0ae96cc581d83ba439f25bd10718bb1622ec527b42657'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0199_000.markers.yaml, hash: 'sha256:73bea58987fa3eb8632bb6270c58b99a9de95afc8fefad60ea8c641694d0c716'}
-  - {seq: 1, role: markers, filename: assets/KR6d0199_001.markers.yaml, hash: 'sha256:e9198d221a233dc5cde57db85f3c70a11e4256975557e4404b16ac21c85e8476'}
+  - {seq: 1, role: markers, filename: assets/KR6d0199_001.markers.yaml, hash: 'sha256:6109d51498ab70cf6dc42e3162c4a1a8a0c1aabb6a4add709b6065354939aa05'}
 table_of_contents:
 - ref:
     seq: 1
@@ -164,6 +164,9 @@ table_of_contents:
   label: 3 勸修
   type: mulu
   level: 1
-hash: sha256:bf0b3063da8aad249b8a94bbad56bbf18cbbe150dcd3b23e2a46d2f0693cb5b2
+hash: sha256:cc88c9c1922a3ea36c53f630b3f018cb35cf018737b2dbba2c92bc3dbd06f2b5
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
